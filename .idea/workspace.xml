@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ab71f44-a9d9-496c-9efc-8dba2109fcda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="beed7286-2c82-45d6-912f-0b5c2f121a5f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,31 +18,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="33lb4DLACWqbKLBbzTAWGKEqpdY" />
+  <component name="ProjectId" id="33j3hbyqzTKTdEnDlhmcyfu3gnu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/frontend/lesson22&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\frontend\lesson22\css" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,13 +57,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ab71f44-a9d9-496c-9efc-8dba2109fcda" name="Changes" comment="" />
-      <created>1759894413084</created>
+      <changelist id="beed7286-2c82-45d6-912f-0b5c2f121a5f" name="Changes" comment="" />
+      <created>1759816773809</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759894413084</updated>
-      <workItem from="1759894414132" duration="151000" />
-      <workItem from="1759894583690" duration="1135000" />
+      <updated>1759816773809</updated>
+      <workItem from="1759816774916" duration="5106000" />
+      <workItem from="1759894768298" duration="1199000" />
+      <workItem from="1759896914077" duration="2397000" />
+      <workItem from="1759979249617" duration="17000" />
+      <workItem from="1759979327772" duration="1278000" />
+      <workItem from="1760094456636" duration="3964000" />
+      <workItem from="1760325655484" duration="787000" />
+      <workItem from="1760332310988" duration="1256000" />
+      <workItem from="1760378280274" duration="419000" />
+      <workItem from="1760411836389" duration="11000" />
+      <workItem from="1760411852677" duration="20000" />
+      <workItem from="1760411937614" duration="40000" />
+      <workItem from="1760412004929" duration="12000" />
+      <workItem from="1760412054322" duration="40000" />
+      <workItem from="1760412157521" duration="172000" />
+      <workItem from="1760412375854" duration="48000" />
+      <workItem from="1760418269639" duration="2000" />
+      <workItem from="1760498565956" duration="700000" />
     </task>
     <servers />
   </component>
