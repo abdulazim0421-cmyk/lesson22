@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="beed7286-2c82-45d6-912f-0b5c2f121a5f" name="Changes" comment="" />
+    <list default="true" id="beed7286-2c82-45d6-912f-0b5c2f121a5f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/frontend/lesson22&quot;,
@@ -82,7 +86,18 @@
       <workItem from="1761221998702" duration="365000" />
       <workItem from="1761242190347" duration="101000" />
       <workItem from="1761621717107" duration="5000" />
-      <workItem from="1761629889105" duration="302000" />
+      <workItem from="1761629889105" duration="765000" />
+      <workItem from="1761630877154" duration="15000" />
+      <workItem from="1761656654190" duration="235000" />
+      <workItem from="1761671030126" duration="64000" />
+      <workItem from="1761672849043" duration="305000" />
+      <workItem from="1761710133692" duration="42000" />
+      <workItem from="1761813192860" duration="86000" />
+      <workItem from="1761889610407" duration="446000" />
+      <workItem from="1761994679716" duration="208000" />
+      <workItem from="1762005195013" duration="7000" />
+      <workItem from="1762407683796" duration="23000" />
+      <workItem from="1762407724535" duration="8000" />
     </task>
     <servers />
   </component>
